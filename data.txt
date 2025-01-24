@@ -1,0 +1,6 @@
+Login generated at Current Time: 15:13:27 
+request method: GET, request url: /, request ip: ::1 
+ HTTP Protocol: http  HostName: localhost:3000 
+Login generated at Current Time: 15:13:27 
+request method: GET, request url: /favicon.ico, request ip: ::1 
+ HTTP Protocol: http  HostName: localhost:3000 
